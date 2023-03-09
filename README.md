@@ -2,7 +2,7 @@
 <div align='center'>
   
 <h1>
-  Hello!👋 My name is Glen Wojnar, I am a Software Engineer!
+  Hello!👋 My name is Glen Wojnar and I am a Software Engineer!
 </h1>
   
    <p>
