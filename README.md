@@ -31,6 +31,6 @@
 
 
 ## Connect with Me!
-<a href="https://www.linkedin.com/in/abel-brianvil-ba4320170/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="https://angel.co/u/abel-brianvil" target="_blank">![AngelList](https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black)</a>
-<a href="mailto:dev.abelbrianvil@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/glen-wojnar-74449b269/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://angel.co/u/glen-wojnar" target="_blank">![AngelList](https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black)</a>
+<a href="mailto:dev.glenwojnar1.0@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
