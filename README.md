@@ -6,7 +6,7 @@
 </h1>
   
    <p>
-     I'm looking forward to embark on the next major chapter in my life no matter where that takes me! I am passionate about solving challenging problems and learning new skills. When I am not coding I am probably spending time outdoors or cooking.
+     I'm looking forward to embark on the next major chapter in my life no matter where that takes me! I am passionate about solving challenging problems and learning new skills. When I am not coding I am probably enjoying the outdoors or cooking.
    <p>
 </div>
 
