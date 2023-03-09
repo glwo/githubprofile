@@ -6,7 +6,7 @@
 </h1>
   
    <p>
-     I'm looking forward to embark on the next major chapter in my life no matter where that takes me! I am passionate about solving challenging problems and learning new skills. My hobbies includes various outdoor activities and exercise.
+     I'm looking forward to embark on the next major chapter in my life no matter where that takes me! I am passionate about solving challenging problems and learning new skills. My hobbies include spending time outdoors and casual sports.
    <p>
 </div>
 
