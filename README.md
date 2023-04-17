@@ -2,7 +2,7 @@
 <div align='center'>
   
 <h1>
-  Hello!👋 I'm Glen Wojnar
+  Glen M. Wojnar
 </h1>
   
    <p>
