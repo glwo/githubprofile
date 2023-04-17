@@ -6,7 +6,13 @@
 </h1>
   
    <p>
-     I'm looking forward to embark on the next major chapter in my life no matter where that takes me! I am passionate about solving challenging problems and learning new skills. When I am not coding I am probably enjoying the outdoors or cooking.
+    As a contemplative software engineer, I have spent much of my career reflecting on the ways in which technology can help us lead more fulfilling and meaningful lives. My background in Physiology/Physical Therapy has given me a unique perspective on the intersection of human biology and technology, and I believe that the two can work together to enhance our well-being and unlock our full potential.
+
+Through my work as a software engineer, I have learned that true success requires patience, determination, and a willingness to put in the work day in and day out. By setting realistic goals and focusing on steady progress, we can achieve remarkable things and overcome even the most challenging obstacles. Whether we are building complex software systems or pursuing personal growth and development, the key is to stay committed to our vision and maintain a sense of purpose and direction.
+
+In my own life, I have applied these principles to achieve a high level of success in my career and personal pursuits. I have also found that the insights and skills I have gained through my work in Physiology/Physical Therapy have been invaluable in helping me understand the human side of technology and create products that truly make a difference in people's lives.
+
+Overall, I believe that a contemplative approach to software engineering can yield powerful results, and I am excited to continue exploring the ways in which technology can help us achieve our full potential.
    <p>
 </div>
 
