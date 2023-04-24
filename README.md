@@ -35,6 +35,11 @@ Overall, I believe that a contemplative approach to software engineering can yie
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
+## Currently Learning:
+[TypeScript]
+[Ruby]
+[RubyOnRails]
+
 
 ## Connect with Me!
 <a href="https://www.linkedin.com/in/glen-wojnar-74449b269/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
