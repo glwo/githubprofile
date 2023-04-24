@@ -36,7 +36,7 @@ Overall, I believe that a contemplative approach to software engineering can yie
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 ## Currently Learning:
-[TypeScript]
+![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
 [Ruby]
 [RubyOnRails]
 
